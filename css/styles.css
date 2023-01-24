@@ -1,0 +1,43 @@
+body {
+    background: black;
+    color: lightgray;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Massacre', Helvetica, sans-serif;
+    font-size: 72px;
+}
+
+p {
+    margin-bottom: 40px;
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.video {
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.video iframe {
+    padding: 20px;
+}
+
+.round {
+    border-radius: 50%;
+}
